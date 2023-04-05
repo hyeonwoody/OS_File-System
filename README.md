@@ -1,7 +1,7 @@
 # OS_File-System
 Soongsil University. Operating System 2020-2 Assignment$#6 : File System
 
-Implementaion of files ystem that runs over an emulated disk.
+Implementaion of files system that runs over an emulated disk.
 
 **simplefs_formatDisk()** formats the file system and initializes the superblock.
 
