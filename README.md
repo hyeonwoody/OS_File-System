@@ -4,6 +4,8 @@
 본 과제의 목표는 데이터를 파일로 가상 디스크에 저장하여 파일 대상으로 다양한 operation을 하는 파일 시스템을 구현하는 것입니다. 
 연산의 예로는 파일 만들기, 파일 지우기, 파일 열기, 파일 닫기, 파일 읽기, 파일 쓰기가 있습니다.   
 
+<br>
+
 ## Soongsil University. Operating System 2020-2 Assignment$#6 : File System
 
 Implementaion of files system that runs over an emulated disk.
